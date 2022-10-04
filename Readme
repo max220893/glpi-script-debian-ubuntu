@@ -1,0 +1,8 @@
+Abrir terminal do linux ctrl+alt+t
+
+Rodar os seguintes comandos por linha:
+
+cd ~
+wget https://raw.githubusercontent.com/max220893/glpi-script-debian-ubuntu/master/glpi.sh
+chmod 777 glpi.sh
+sudo ./glpi.sh
