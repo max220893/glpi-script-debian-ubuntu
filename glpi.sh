@@ -9,6 +9,3 @@ fi
 chmod 777 ~/glpi/glpi-agent_1.4-1_all.deb
 sudo apt install -y ~/glpi/glpi-agent_1.4-1_all.deb
 sudo glpi-agent --server https://inventory.globalsys.com.br/glpi/ --daemon
-yay debtap
-sudo debtap -u
-debtap microsoft-edge-dev_88.0.673.0-1_amd64.deb
